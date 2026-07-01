@@ -157,5 +157,4 @@ If you use EMSpice 3 in your research, please cite:
 ## Acknowledgments
 
 Developed by the **VLSI System Computing CAD Lab (VSCLAB)**, Department of Electrical and Computer
-Engineering, University of California, Riverside. This work is supported in part by NSF grants
-**CCF-2007135** and **CCF-2305437**.
+Engineering, University of California, Riverside. 
