@@ -9,7 +9,7 @@ maps, iterative resistance feedback, and Monte Carlo lifetime prediction for ful
 designs — and it integrates with both the open-source OpenROAD framework and the
 industry-standard Synopsys ICC and Fusion Compiler environments for practical EM/IR sign-off.
 
-> 🌐 **Marketing site:** open [`index.html`](index.html) in a browser (or host it with GitHub Pages).
+> 🌐 Please check the https://sheldonucr.github.io/emspice_io/ for more information
 
 <p align="center">
   <img src="assets/figs/risc_core_strss_map_3D_353.png" alt="RISC-V coupled EM/TM stress map" width="32%">
